@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "404513752002",
+    "project_id": "pemob4",
+    "storage_bucket": "pemob4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404513752002:android:066d6c7ee013737e914c5b",
+        "android_client_info": {
+          "package_name": "com.example.modul_6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz6Z_mnDVyZQMYUnQslEL802Nv2fbomq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
